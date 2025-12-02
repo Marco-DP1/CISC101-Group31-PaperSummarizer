@@ -1,0 +1,4 @@
+### **Module 1 — Intake & Setup**
+- Validate required inputs (title, text, section list, audience).
+- Normalize section order.
+- Pre-process text into manageable chunks if paper exceeds context window.
