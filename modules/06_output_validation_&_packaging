@@ -1,0 +1,5 @@
+### **Module 6: Output Validation & Packaging**
+- Validate formatting (tables, headings, glossary).
+- Run final word count checks.
+- Append error/warning messages if constraints violated.
+- Package outputs in structured order for delivery.
